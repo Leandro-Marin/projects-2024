@@ -356,11 +356,12 @@ body {
 }
 
 .foto-profilo{
-  height: 100%;
+  height: 95%;
 }
 
 .foto-profilo img{
-  width: 100%;
+  margin-left: 50px;
+  width: auto;
   height: 90%;
   overflow: hidden;
 }
